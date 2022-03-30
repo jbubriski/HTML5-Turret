@@ -4,4 +4,4 @@ This is a just a simple example project with a rotating turret that shoots laser
 
 ## Demo
 
-[View the demo on the Github page](http://jbubriski.github.io/HTML5-Turret/src/index.htm).
+[View the demo on the Github page](http://johnnycode.com/HTML5-Turret/src/index.htm).
